@@ -3,7 +3,7 @@
 API Monitor cardíaco
 ---------------------------
 Autor: Inove Coding School
-Version: 1.0
+Version: 1.1
  
 Descripcion:
 Se utiliza Flask para crear un WebServer que levanta los datos de
